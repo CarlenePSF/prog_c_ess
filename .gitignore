@@ -1,2 +1,9 @@
-** cmake-build-debug
+# dir
+cmake-build-debug
+.cmake
+CMakeFiles
+Testing
+
+
+# files extensions
 *.txt
