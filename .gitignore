@@ -1,10 +1,16 @@
 # dir
-.idea
-cmake-build-debug
-.cmake
-CMakeFiles
-Testing
-
+**.vscode
+**.idea
+**cmake-build-debug
+**.cmake
+**CMakeFiles
+**Testing
+**geek_university
+**bin
+**fontes
 
 # files extensions
 *.txt
+*.o
+*.exe
+*.xml
