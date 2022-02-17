@@ -2,7 +2,7 @@
  * nome: switch.c
  * descrição: instrução switch criando um dicionario
  * data: 29/05/2021
- * Interessante parq quando temos mitas estruturas if...else 
+ * usamos o switch quando temos muitas estruturas if...else
  * o que pode tornar o programa confuso
  *************************************************/
 
@@ -26,10 +26,9 @@
 
 
 #include <stdio.h>
-#include <math.h>
 #include <stdlib.h>
 
-int dict_pais(int num)
+void dict_pais(int num)
 {
 switch (num){
           case 1: 

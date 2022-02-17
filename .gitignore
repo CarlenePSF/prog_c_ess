@@ -1,4 +1,4 @@
-# dir
+# dirs
 **.vscode
 **.idea
 **cmake-build-debug
@@ -14,3 +14,4 @@
 *.o
 *.exe
 *.xml
+*.dat

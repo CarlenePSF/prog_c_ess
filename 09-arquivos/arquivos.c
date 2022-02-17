@@ -1,5 +1,5 @@
 /****************************************************
-*  nome: arquivos.c
+*  nome: arquivos
 *  Descricao: trabalhando com arquivos em linguagem C
 *  last update: 18/04/2021
 *****************************************************/
@@ -8,7 +8,7 @@
 #include <stdio.h>
 #include <stdlib.h> /* Por causa da função exit */
 
-main(int argc, char*argv[])
+int main(int argc, char*argv[])
 {
     FILE *fp;
     int ch;     /* Inteiro para ler os caracteres */
